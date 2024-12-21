@@ -19,4 +19,4 @@ The notebook `data_preprocessing.ipynb` contains the code for how we have prepro
 
 The other notebook `U_net_projectfile.ipynb` contains the U-net model, the training and testing.
 
-Two example images and the pretrained model `model_final.pth` can be found in our submitted assignment on Learn. These can be run in the `Image_examples.ipynb` if wanted.
+Two example images and the pretrained model `model_final.pth` can be found in Onedrive with the link https://dtudk-my.sharepoint.com/:f:/g/personal/s205051_dtu_dk/EsvIlR9tJHZApb6yGNH93ggBj-_6nK3rIG6FsEAfD3xGOA?e=9t1LBR . These can be run in the `Image_examples.ipynb` if wanted.
